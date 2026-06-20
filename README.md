@@ -9,4 +9,4 @@ This project is part of a series of open source stepping stone projects I am cre
 
 demo video: https://www.youtube.com/watch?v=6CEy-0x_Uvs
 
-itch page: https://thelastflapjack.itch.io/open-target-shooter
+itch page: https://teeece.itch.io/open-target-shooter
